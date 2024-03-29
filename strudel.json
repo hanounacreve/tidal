@@ -1,4 +1,5 @@
 {
   "_base":"https://raw.githubusercontent.com/hanounacreve/tidal/main/",
-  "zizigros":["son.wav"]
+  "zizigros":["son.wav"],
+  "zizigros1":["salut.txt"]
 }
